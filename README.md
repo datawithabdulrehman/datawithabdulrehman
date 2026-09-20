@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=flat-square&logo=googlechrome&logoColor=white)](https://datawithabdulrehman.github.io/ABXREHMAN-PORTFOLIO/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/datawithabdulrehman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datawithabdulrehman)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
@@ -82,13 +83,14 @@ Currently focused on:
 
 <div align="center">
 
-|                                               📌 Project                                               | 💡 Description                                                        |
-| :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------- |
-|      🏎️ [**F1 2026 WDC Prediction**](https://github.com/datawithabdulrehman/F1_WDC_Prediction_2026)      | ML model predicting the 2026 F1 World Drivers' Championship, with a Streamlit app |
-|        🧠 [**Mental Health Score Prediction**](https://github.com/datawithabdulrehman/Mentel_Health_Score) | Machine Learning model predicting mental health scores from lifestyle data |
-|      🏠 [**London House Price Prediction**](https://github.com/datawithabdulrehman/London_House_Predection) | Regression model for predicting London housing prices                 |
-|       💰 [**Self-Made Billionaires Analysis**](https://github.com/datawithabdulrehman/Selfmade-billionaires-analysis) | Exploratory data analysis on the world's self-made billionaires        |
-|     🍔 [**Food Delivery Time Prediction**](https://github.com/datawithabdulrehman/Food-Delivery-Time-Prediction) | ML model predicting food delivery times from order and route data      |
+|                                               📌 Project                                               | 💡 Description                                                        | 🔗 Links |
+| :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------- | :------: |
+|      🏎️ [**F1 2026 WDC Prediction**](https://github.com/datawithabdulrehman/F1_WDC_Prediction_2026)      | ML model predicting the 2026 F1 World Drivers' Championship, with a Streamlit app | [Live Demo](https://f1wdcprediction2026-abxrehman.streamlit.app/) |
+|        🧠 [**Mental Health Score Prediction**](https://github.com/datawithabdulrehman/Mentel_Health_Score) | Machine Learning model predicting mental health scores from lifestyle data | [Live Demo](https://datawithabdulrehman.github.io/Mentel_Health_Score/) |
+|     🍔 [**Food Delivery Time Prediction**](https://github.com/datawithabdulrehman/Food-Delivery-Time-Prediction) | ML model predicting food delivery times from order and route data      | [Live Demo](https://food-delivery-time-prediction-byabxrehman.streamlit.app/) |
+|      🏠 [**London House Price Prediction**](https://github.com/datawithabdulrehman/London_House_Predection) | Regression model for predicting London housing prices                 | — |
+|       💰 [**Self-Made Billionaires Analysis**](https://github.com/datawithabdulrehman/Selfmade-billionaires-analysis) | Exploratory data analysis on the world's self-made billionaires        | — |
+|      ♻️ **Waste Management System**                                                                       | Web app for tracking and managing waste collection                     | [Live Demo](https://abxwastemanagment.netlify.app/) |
 
 </div>
 
@@ -246,6 +248,7 @@ I'm particularly interested in understanding **why a model works**, not just pro
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=googlechrome)](https://datawithabdulrehman.github.io/ABXREHMAN-PORTFOLIO/)
 [![GitHub](https://img.shields.io/badge/💻%20GitHub-datawithabdulrehman-181717?style=for-the-badge&logo=github)](https://github.com/datawithabdulrehman)
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-datawithabdulrehman-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/datawithabdulrehman)
 
